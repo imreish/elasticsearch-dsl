@@ -24,7 +24,7 @@ Introducing Elasticsearch DSL library to provide objective query builder for [el
 Install library with [composer](https://getcomposer.org):
 
 ```bash
-$ composer require bistrosk/elasticsearch-dsl
+$ composer require imreish/elasticsearch-dsl
 ```
 
 > [elasticsearch-php](https://github.com/elastic/elasticsearch-php) client is defined in the composer requirements, no need to install it.
