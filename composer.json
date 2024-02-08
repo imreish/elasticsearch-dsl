@@ -1,5 +1,5 @@
 {
-    "name": "bistrosk/elasticsearch-dsl",
+    "name": "imreish/elasticsearch-dsl",
     "description": "Elasticsearch DSL library",
     "type": "library",
     "homepage": "http://ongr.io",
